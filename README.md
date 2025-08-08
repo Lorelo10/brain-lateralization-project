@@ -34,9 +34,18 @@ Statistical evaluation of hemispheric dominance patterns for emotion.
 
 The data for the dependent variable depression are parametric. The results indicate that for the intra-subject effects test there are significant differences in the levels of depression between pre and post at a general level among the participants, F(1,19)=11,852; p<.001; η2=0.461. In the inter-subject effects test, significant differences were also found between the groups regardless of the moment, F(1,19)=10.172; p<.005; η2=0.349. Again, higher levels of depression are observed in participants in the sad induction group even before the induction and before knowing which group they would be assigned to. Repeated measures ANOVA analysis was used to compare differences between pre and post group by group. As seen in Image 7. The results found indicate that for the sad induction group the increase in depression is significant, F(1,10)=16,194; p<.002; η2=0.618, comparing the pre and post induction moments. For the happy induction group there was a decrease in depression, comparing the pre-moment (mean = 1.2, SD = 1.26) with the post-induction moment (mean = 1.05, SD = 1.27) but this difference is not significant (p<. 217).
 
-![Image 7](/ruta/a/tu/imagen.png)
+![Image 7](figures/imagen1.png)
 
   
+The VF data during the landmark task were analyzed with the R-studio tool, version R.4.2.2, taking measurements from the 3rd to the 12th second, considering that the VF increases 5 seconds after starting the landmark task. For all participants in the group assigned to a sad mood induction, a significant decrease in FV was found, as previously mentioned. When analyzing the VF measuring from second 0, that is, from the beginning of the landmark task, to second 3, it was found that for half of the participants in this same group there had been an increase in VF comparing the moments before and during emotional induction. This could be an indication that by having a measurement closer to the time of the presentation of the videos, a behavior more consistent with the theory could have been found. 
+
+Annex 3
+Participant 1
+Measurement during performance of landmark task before mood induction (LM) and during mood induction (EMO) looking seconds 3 to 12.
+
+![Image ](figures/imagen2.png)
+![Image ](figures/imagen3.png)
+
 
 
 
