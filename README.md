@@ -49,7 +49,7 @@ Measurement during performance of landmark task before mood induction (LM) and d
 
 
 
-![Read summary](TFM_Lorena2023.pdf)
+![Read summary](Summary/TFM_Lorena2023.pdf)
 
 
 
